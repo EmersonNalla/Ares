@@ -6,8 +6,8 @@
   </PropertyGroup>
   <Import Project="$(VSToolsPath)\DotNet\Microsoft.DotNet.Props" Condition="'$(VSToolsPath)' != ''" />
   <PropertyGroup Label="Globals">
-    <ProjectGuid>6d648d27-8475-4532-9ce0-5c0554700e70</ProjectGuid>
-    <RootNamespace>Ares</RootNamespace>
+    <ProjectGuid>7ff9f622-9edf-4466-9196-15ad1effcd0d</ProjectGuid>
+    <RootNamespace>Ares.ProductManagement.Api</RootNamespace>
     <BaseIntermediateOutputPath Condition="'$(BaseIntermediateOutputPath)'=='' ">.\obj</BaseIntermediateOutputPath>
     <OutputPath Condition="'$(OutputPath)'=='' ">.\bin\</OutputPath>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
